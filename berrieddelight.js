@@ -1,4 +1,4 @@
-alert("This is a bucket. Dear God... There's more. No... It contains a bucket. Dear God... There's more. No... It contains a bucket. Dear God... There's more. No... It contains a bucket.");
+alert("imce clibers");
 console.log("I hope you enjoy learning JavaScript!");
 
 let person = {
